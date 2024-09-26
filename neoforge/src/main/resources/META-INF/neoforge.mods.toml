@@ -1,0 +1,31 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+issueTrackerURL = "https://github.com/MCLegoMan/oneslotatatime"
+license = "LGPL-3.0-or-later"
+
+[[mods]]
+modId = "mclm_osaat"
+version = "1.0.0"
+displayName = "One Slot at a Time"
+authors = "MCLegoMan"
+description = '''
+Forces you to play with one slot at a time
+'''
+logoFile = "assets/mclm_osaat/icon.png"
+
+[[dependencies.mclm_osaat]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.mclm_osaat]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21,1.21.1)"
+ordering = "NONE"
+side = "CLIENT"
+
+[[mixins]]
+config = "mclm_osaat.mixins.json"
