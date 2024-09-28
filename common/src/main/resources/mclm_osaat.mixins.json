@@ -7,6 +7,7 @@
 		"InGameHudMixin"
 	],
 	"mixins": [
+		"PlayerEntityMixin",
 		"PlayerInventoryMixin"
 	],
 	"injectors": {
