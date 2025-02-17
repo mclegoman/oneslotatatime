@@ -5,7 +5,7 @@ license = "LGPL-3.0-or-later"
 
 [[mods]]
 modId = "mclm_osaat"
-version = "1.0.0"
+version = "1.0.2"
 displayName = "One Slot at a Time"
 authors = "dannytaylor"
 description = '''
