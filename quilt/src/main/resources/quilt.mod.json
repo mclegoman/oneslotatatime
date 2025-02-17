@@ -8,14 +8,14 @@
       "name": "One Slot at a Time",
       "description": "Forces you to play with one slot at a time",
       "contributors": {
-        "MCLegoMan": "Lead Developer"
+        "dannytaylor": "Lead Developer"
       },
       "icon": "assets/mclm_osaat/icon.png",
       "license": [
         "LGPL-3.0-or-later"
       ],
       "contact": {
-        "sources": "https://github.com/MCLegoMan/oneslotatatime"
+        "sources": "https://github.com/mclegoman/oneslotatatime"
       }
     },
     "intermediate_mappings": "net.fabricmc:intermediary",

@@ -5,10 +5,10 @@
   "name": "One Slot at a Time",
   "description": "Forces you to play with one slot at a time",
   "authors": [
-    "MCLegoMan"
+    "dannytaylor"
   ],
   "contact": {
-    "sources": "https://github.com/MCLegoMan/oneslotatatime"
+    "sources": "https://github.com/mclegoman/oneslotatatime"
   },
   "license": [
     "LGPL-3.0-or-later"
